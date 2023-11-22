@@ -20,9 +20,7 @@ Below are some technologies I've been working with recently:
 - Next.js
 - TailwindCSS
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raptor1818&hide=css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<sup>(CSS hidden because of Tailwind and imported CSS files.)</sup>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raptor1818&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 🛠️ Projects
