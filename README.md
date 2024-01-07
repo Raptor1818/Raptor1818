@@ -17,7 +17,7 @@ Below are some technologies I've been working with recently:
 - HTML5 & CSS3
 - JavaScript (ES6+)
 - React
-- Next.js
+- Electron.js
 - TailwindCSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raptor1818&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
