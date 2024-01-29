@@ -6,16 +6,24 @@ Welcome to my GitHub profile!
 
 ## 🙋‍♂️ About Me
 
-I'm an 18-year-old student from Italy, currently immersed in the world of web development and balancing my passion for video games.
+I'm an 18-year-old student from Italy, currently immersed in the world of game and web development, while balancing my passion for video games.
 
-- 🔭 I’m currently working on various web development projects.
-- 🌱 I’m currently learning Next.js.
+- 🌱 I’m currently learning Godot 4 🤖
+- 🔭 And working on a [newer version of my personal website](https://github.com/Raptor1818/raptorino-ts)
+
+## 🎮 Game Development
+
+I have recently participated in my first Game Jam, [PirateSoftware's 14th Game Jam](https://itch.io/jam/pirate)!
+I worked with a team of 5 to create [The Grove](https://dano972c.itch.io/the-grove) for the game jam.
+
+[My itch.io page](https://raptor1818.itch.io/)
 
 ## 💻 Web Development
 
 Below are some technologies I've been working with recently:
-- HTML5 & CSS3
-- JavaScript (ES6+)
+- Godot 4 with GDScript
+- Typescript
+- JavaScript
 - React
 - Electron.js
 - TailwindCSS
@@ -23,9 +31,16 @@ Below are some technologies I've been working with recently:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raptor1818&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## 🛠️ Projects
+## 👍 Projects
+- (OLD) [My personal website](https://github.com/Raptor1818/raptorino)
 - [School bar calculator](https://github.com/Raptor1818/bar-calculator) - Webapp for my school to create order messages for the bar with ease.
-- More are work in progress...
+
+## 🛠️ WIP Projects
+- [New personal website](https://github.com/Raptor1818/raptorino-ts)
+- A couple of private Godot 4 projects
+
+# ⏸️ On-hold Projects
+- [Streamino](https://github.com/Raptor1818/Streamino) - A locally ran Electron React-ts app to gather your own library of movies in one place.
 
 ***
 
