@@ -9,7 +9,8 @@ Welcome to my GitHub profile!
 I'm an 18-year-old student from Italy, currently immersed in the world of game and web development, while balancing my passion for video games.
 
 - 🌱 I’m currently learning Godot 4 🤖
-- 🔭 And working on a [newer version of my personal website](https://github.com/Raptor1818/raptorino-ts)
+- 🔭 Exploring React-Native with Expo
+- 🛠️ And working on a [newer version of my personal website](https://github.com/Raptor1818/raptorino-ts)
 
 ## 🎮 Game Development
 
@@ -21,6 +22,7 @@ I worked with a team of 5 to create [The Grove](https://dano972c.itch.io/the-gro
 ## 💻 Web Development
 
 Below are some technologies I've been working with recently:
+- React-Native
 - Godot 4 with GDScript
 - Typescript
 - JavaScript
@@ -32,14 +34,15 @@ Below are some technologies I've been working with recently:
 
 
 ## 👍 Projects
-- (OLD) [My personal website](https://github.com/Raptor1818/raptorino)
+- [My personal website](https://github.com/Raptor1818/raptorino) - (OLD) My personal website, at https://raptorino.com
 - [School bar calculator](https://github.com/Raptor1818/bar-calculator) - Webapp for my school to create order messages for the bar with ease.
 
 ## 🛠️ WIP Projects
 - [New personal website](https://github.com/Raptor1818/raptorino-ts)
+- [Notifierino](https://github.com/Raptor1818/notifierino) - An Android app for myself to send me notifications to not forget about things.
 - A couple of private Godot 4 projects
 
-# ⏸️ On-hold Projects
+## ⏸️ On-hold Projects
 - [Streamino](https://github.com/Raptor1818/Streamino) - A locally ran Electron React-ts app to gather your own library of movies in one place.
 
 ***
