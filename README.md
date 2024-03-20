@@ -39,10 +39,10 @@ Below are some technologies I've been working with recently:
 
 ## 🛠️ WIP Projects
 - [New personal website](https://github.com/Raptor1818/raptorino-ts)
-- [Notifierino](https://github.com/Raptor1818/notifierino) - An Android app for myself to send me notifications to not forget about things.
 - A couple of private Godot 4 projects
 
 ## ⏸️ On-hold Projects
+- [Notifierino](https://github.com/Raptor1818/notifierino) - An Android app for myself to send me notifications to not forget about things.
 - [Streamino](https://github.com/Raptor1818/Streamino) - A locally ran Electron React-ts app to gather your own library of movies in one place.
 
 ***
