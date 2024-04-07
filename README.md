@@ -7,7 +7,7 @@ Welcome to my GitHub profile!
 I'm an 18-year-old student from Italy, with a passion for web and game development.
 
 - 🌱 I’m currently learning Godot 4 🤖
-- 🛠️ And working on a [newer version of my personal website](https://github.com/Raptor1818/raptorino-ts) 🌐
+- 🛠️ And just finished working on the [second version of my personal website](https://github.com/Raptor1818/raptorino-ts) 🌐
 
 ## 🎮 Game Development
 
@@ -27,13 +27,12 @@ Below are some technologies I've been working with recently:
 
 
 ## 👍 Projects
-- [My personal website](https://github.com/Raptor1818/raptorino) - (OLD) My personal website, at https://raptorino.com
+- [Personal website v2](https://github.com/Raptor1818/raptorino-ts) My personal website, at https://raptorino.com
 - [School bar calculator](https://github.com/Raptor1818/bar-calculator) - Webapp for my school to create order messages for the bar with ease.
 - [The Grove](https://dano972c.itch.io/the-grove) - A game prototype for [PirateSoftware's 14th Game Jam](https://itch.io/jam/pirate).
 
 ## 🛠️ WIP Projects
-- [New personal website](https://github.com/Raptor1818/raptorino-ts)
-- A couple of private Godot 4 projects
+- Nothing going on right now, things will be cooking soon!
 
 ## ⏸️ On-hold Projects
 - [Notifierino](https://github.com/Raptor1818/notifierino) - An Android app for myself to send me notifications to not forget about things.
