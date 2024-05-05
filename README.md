@@ -28,7 +28,6 @@ Below are some technologies I've been working with recently:
 
 ## 👍 Projects
 - [Personal website v2](https://github.com/Raptor1818/raptorino-ts) My personal website, at https://raptorino.com
-- [School bar calculator](https://github.com/Raptor1818/bar-calculator) - Webapp for my school to create order messages for the bar with ease.
 - [The Grove](https://dano972c.itch.io/the-grove) - A game prototype for [PirateSoftware's 14th Game Jam](https://itch.io/jam/pirate).
 
 ## 🛠️ WIP Projects
