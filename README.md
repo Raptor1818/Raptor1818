@@ -6,7 +6,7 @@ Find me on [Bluesky](https://bsky.app/profile/raptorino.com) or [X/Twitter](http
 
 ## Websites
 - [Personal website v3](https://github.com/Raptor1818/RaptorOS) - My personal website made to resemble a desktop enviroment, at https://os.raptorino.com
-- [Portfolio website](https://github.com/Raptor1818/portfolio) - My portfolio website, showcasing projects and skills, at https://raptorino.com
+- [Portfolio website](https://github.com/Raptor1818/portfolio) - My portfolio website, showcasing projects and skills, at https://raptor.codes
 
 ## Game jams
 - [The Grove](https://dano972c.itch.io/the-grove) - A Platformer Prototype for [PirateSoftware's 14th Game Jam](https://itch.io/jam/pirate14)
